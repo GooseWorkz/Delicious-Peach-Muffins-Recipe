@@ -1,11 +1,11 @@
 /* Place CSS styles here */
 body {
-  background-color:#f5d6ae
+  background-color: #f5d6ae;
 }
 
-h1 {
+.Recipe-title {
   color: #5a1703;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
-  font: size 20px;
+  font-size: 20px;
 }
