@@ -9,3 +9,9 @@ body {
   text-align: center;
   font-size: 20px;
 }
+
+.Recipe-title h1 {
+  color: #4004cb;
+  font-size: 36px;
+  text-align: center;
+}
